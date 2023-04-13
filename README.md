@@ -3,7 +3,9 @@
 <br><br>
 ## Hi There 🖐
 <br>
+
 ---
+<br><br><br>
 <div align="center" style="font-size: 20px;">📚 Tech Stack 📚</p>
 <div align="center" style="font-size: 15px;">💻 Techs that I've used at least once
 
