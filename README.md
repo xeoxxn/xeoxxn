@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=xeoxxn_GitHub&fontSize=60&animation=fadeIn&fontAlignY=38&desc=KMU%20SW&nbsp;22&descAlignY=51&descAlign=62)
 
 <br><br>
-
+## Hi There 🖐
+<br>
+---
 <div align="center" style="font-size: 20px;">📚 Tech Stack 📚</p>
 <div align="center" style="font-size: 15px;">💻 Techs that I've used at least once
 
