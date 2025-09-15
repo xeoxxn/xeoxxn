@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=xeoxxn_GitHub&fontSize=60&animation=fadeIn&fontAlignY=30)
-
-## 🏫 Experience & Social Activity
-
+<div align='center'>
+	## 🏫 Experience & Social Activity
+</div>
 <div align='center'>
 <table style="width: auto; table-layout: auto;">
   <thead>
@@ -38,8 +38,9 @@
 </div>
 
 <br/>
-
-## 🔨 Stack & Tools
+<div align='center'>
+	## 🔨 Stack & Tools
+</div>
 <div style="display:flex; flex-direction:row;" align='center'>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
