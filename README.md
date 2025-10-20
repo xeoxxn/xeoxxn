@@ -31,7 +31,7 @@
     <tr>
       <td align="left">WINK</td>
       <td align="left">2025.03 ~ </td>
-      <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 부원</td>
+      <td align="left">국민대학교 소프트웨어융합대학 웹 학술 동아리 WINK 부원</td>
     </tr>
   </tbody>
 </table>
