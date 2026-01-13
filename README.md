@@ -25,7 +25,7 @@
     </tr>
     <tr>
       <td align="left">Archive</td>
-      <td align="left">2025.03 ~ </td>
+      <td align="left">2025.03 ~ 2025.12</td>
       <td align="left">국민대학교 소프트웨어융합대학 제9대 학생회 미디어부 부원</td>
     </tr>
     <tr>
