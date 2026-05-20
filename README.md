@@ -3,7 +3,7 @@
 
 ## 🏫 Experience & Social Activity
 
-<div align='left'>
+<div align='center'>
 <table style="width: auto; table-layout: auto;">
   <thead>
     <tr>
@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
 	<img src="https://img.shields.io/badge/StyledComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
 	<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white">
-	<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=SpringBoot&logoColor=white">
+	<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 <div>
 
 <br/>
