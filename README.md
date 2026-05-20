@@ -3,7 +3,7 @@
 
 ## 🏫 Experience & Social Activity
 
-<div align='center'>
+<div align='left'>
 <table style="width: auto; table-layout: auto;">
   <thead>
     <tr>
