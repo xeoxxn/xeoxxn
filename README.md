@@ -63,6 +63,8 @@
 
 <br/>
 
+<div align="center">
+  
 <h2>🚀 Featured Projects</h2>
 <table>
   <thead>
@@ -106,6 +108,7 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <div align="center">
 
