@@ -78,27 +78,27 @@
   <tbody>
     <tr>
       <td><a href="링크">SOUP</a></td>
-      <td>프론트엔드 팀장</td>
+      <td>Frontend</td>
       <td>중학생을 위한 AI 수학 학습 도우미 서비스</td>
     </tr>
     <tr>
       <td><a href="링크">부옹이</a></td>
-      <td>프론트엔드 팀장</td>
+      <td>Frontend</td>
       <td>사내 상담 및 소통을 지원하는 AI 서비스</td>
     </tr>
     <tr>
       <td><a href="링크">CARRIO</a></td>
-      <td>팀장 · 프론트엔드 개발</td>
+      <td>Frontend</td>
       <td>취업 준비생을 위한 AI 자소서 분석·작성 도우미</td>
     </tr>
     <tr>
       <td><a href="링크">KMU-ECHO-Display</a></td>
-      <td>외주 개발</td>
+      <td>Frontend</td>
       <td>학생회 통합 디스플레이 시스템</td>
     </tr>
     <tr>
       <td><a href="링크">Zeph</a></td>
-      <td>팀장 · 백엔드 개발</td>
+      <td>Backend</td>
       <td>AI 기반 러닝 경로 추천 서비스</td>
     </tr>
   </tbody>
