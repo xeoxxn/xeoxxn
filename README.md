@@ -64,6 +64,20 @@
 <br/>
 
 <div align="center">
+<h2>🚀 Featured Projects</h2>
+
+| Project | Role | Description |
+|----------|----------|-------------|
+| [SOUP](링크) | Frontend Lead | 중학생을 위한 AI 수학 학습 도우미 서비스 |
+| [부옹이](링크) | Frontend Lead | 사내 상담 및 소통을 지원하는 AI 서비스 |
+| [CARRIO](링크) | Team Leader · Frontend Developer | 취업 준비생을 위한 AI 자소서 분석·작성 도우미 |
+| [KMU-ECHO-Display](링크) | Freelance Developer | 학생회 통합 디스플레이 시스템 |
+| [Zeph](링크) | Team Leader · Backend Developer | AI 기반 러닝 경로 추천 서비스 |
+</div>
+
+<br/>
+
+<div align="center">
 
 <h2>🔨 Tech Stack</h2>
 
