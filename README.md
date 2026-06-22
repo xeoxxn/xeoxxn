@@ -4,7 +4,7 @@
 ## 🏫 Experience & Social Activity
 
 <div align='left'>
-<table style="width: auto; table-layout: auto;">
+<table style="width: full; table-layout: auto;">
   <thead>
     <tr>
       <th align="left">소속 및 단체</th>
