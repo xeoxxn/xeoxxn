@@ -76,7 +76,7 @@
   <tbody>
     <tr>
       <td><a href="SOUP_REPOSITORY_URL">SOUP</a></td>
-      <td>Fronted</td>
+      <td>Frontend</td>
       <td>중학생을 위한 AI 수학 학습 도우미 서비스</td>
       <td>React, TypeScript, Tailwind CSS</td>
     </tr>
