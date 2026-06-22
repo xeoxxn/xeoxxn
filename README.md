@@ -36,7 +36,7 @@
 	<tr>
       <td align="left">아티웰스</td>
       <td align="left">2026.06 ~ </td>
-      <td align="left">현장실습 인턴</td>
+      <td align="left">현장실습 인턴 개발자</td>
     </tr>
   </tbody>
 </table>
