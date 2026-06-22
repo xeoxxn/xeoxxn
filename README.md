@@ -2,13 +2,47 @@
 
 ## 🏫 Experience & Social Activity
 
-| 소속 및 단체 | 활동 기간 | 내용 |
-| :--- | :--- | :--- |
-| 국민대학교 | 2022.03 ~ | 국민대학교 소프트웨어학부 재학 |
-| KOSS | 2022.03 ~ 2023.06 | 오픈소스 소프트웨어 학회 KOSS 운영진 및 홍보부 부원 |
-| Archive | 2025.03 ~ 2025.11 | 국민대학교 소프트웨어융합대학 제9대 학생회 미디어부 부원 |
-| WINK | 2025.11 ~ | 국민대학교 소프트웨어융합대학 웹 학술 동아리 WINK 회장 |
-| 아티웰스 | 2026.06 ~ | 현장실습 인턴 개발자 |
+<table width="100%">
+  <colgroup>
+    <col width="18%">
+    <col width="22%">
+    <col width="60%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th align="left">소속 및 단체</th>
+      <th align="left">활동 기간</th>
+      <th align="left">내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>국민대학교</td>
+      <td>2022.03 ~</td>
+      <td>국민대학교 소프트웨어학부 재학</td>
+    </tr>
+    <tr>
+      <td>KOSS</td>
+      <td>2022.03 ~ 2023.06</td>
+      <td>오픈소스 소프트웨어 학회 KOSS 운영진 및 홍보부 부원</td>
+    </tr>
+    <tr>
+      <td>Archive</td>
+      <td>2025.03 ~ 2025.11</td>
+      <td>국민대학교 소프트웨어융합대학 제9대 학생회 미디어부 부원</td>
+    </tr>
+    <tr>
+      <td>WINK</td>
+      <td>2025.11 ~</td>
+      <td>국민대학교 소프트웨어융합대학 웹 학술 동아리 WINK 회장</td>
+    </tr>
+    <tr>
+      <td>아티웰스</td>
+      <td>2026.06 ~</td>
+      <td>현장실습 인턴 개발자</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
