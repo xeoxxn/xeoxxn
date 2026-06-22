@@ -78,25 +78,25 @@
       <td><a href="SOUP_REPOSITORY_URL">SOUP</a></td>
       <td>Frontend</td>
       <td>중학생을 위한 AI 수학 학습 도우미 서비스</td>
-      <td>React, TypeScript, Tailwind CSS</td>
+      <td>TypeScript, Tailwind CSS</td>
     </tr>
     <tr>
       <td><a href="BUONG_REPOSITORY_URL">부옹이</a></td>
       <td>Frontend</td>
       <td>사내 상담 및 소통을 지원하는 AI 서비스</td>
-      <td>React, TypeScript, Tailwind CSS</td>
+      <td>TypeScript, Tailwind CSS</td>
     </tr>
     <tr>
       <td><a href="CARRIO_REPOSITORY_URL">CARRIO</a></td>
       <td>Frontend</td>
       <td>취업 준비생을 위한 AI 자소서 분석·작성 도우미</td>
-      <td>React, TypeScript, Tailwind CSS</td>
+      <td>TypeScript, Tailwind CSS</td>
     </tr>
     <tr>
       <td><a href="KMU_ECHO_DISPLAY_REPOSITORY_URL">KMU-ECHO-Display</a></td>
       <td>Frontend</td>
       <td>학생회 통합 디스플레이 시스템</td>
-      <td>React, TypeScript, Tailwind CSS</td>
+      <td>TypeScript, Tailwind CSS</td>
     </tr>
     <tr>
       <td><a href="ZEPH_REPOSITORY_URL">Zeph</a></td>
