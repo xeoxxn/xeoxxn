@@ -104,6 +104,12 @@
       <td>AI 기반 러닝 경로 추천 서비스</td>
       <td>Spring Boot, PostgreSQL, AWS</td>
     </tr>
+    <tr>
+      <td><a href="FinSight_REPOSITORY_URL">Zeph</a></td>
+      <td>Backend</td>
+      <td>오프라인 소상공인을 위한 AI 운영 안정성 평가 서비스</td>
+      <td>Spring Boot, MySQL, AWS, Docker</td>
+    </tr>
   </tbody>
 </table>
 </div>
