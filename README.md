@@ -138,7 +138,3 @@
 </div>
 <br/>
 <div align="center">
-<h2>📊 GitHub Stats</h2>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xeoxxn&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeoxxn&layout=compact"/>
-</div>
